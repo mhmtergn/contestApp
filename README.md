@@ -11,4 +11,4 @@ I'm a mobile app developer who using flutter..
 
 
 # Hi, I'm Mehmet! 👋
-Do not be shy, say hi:)
+
